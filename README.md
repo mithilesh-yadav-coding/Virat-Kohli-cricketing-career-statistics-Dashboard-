@@ -1,4 +1,4 @@
-"Hey everyone 🙋‍♂️ , just a heads up that I've fixed yesterday's Power BI issue 📊💻 and I'm back on track! I was unable to upload my project due to the outage, but I'm working on getting it live today 🤔. Thanks for your patience! 💻
+"Hey everyone 🙋‍♂️ 
 
 🌟 Excited to share my latest project accomplishment! I’ve developed a comprehensive dashboard on hashtag#PowerBI that highlights key insights into Virat Kohli’s cricketing career 📊📈. 
 
